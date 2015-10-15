@@ -14,6 +14,10 @@
 		E6BAB5891BCFA3CF003D4936 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6BAB5871BCFA3CF003D4936 /* LaunchScreen.storyboard */; };
 		E6BAB5941BCFA3CF003D4936 /* tarea3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BAB5931BCFA3CF003D4936 /* tarea3Tests.swift */; };
 		E6BAB59F1BCFA3CF003D4936 /* tarea3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BAB59E1BCFA3CF003D4936 /* tarea3UITests.swift */; };
+		E6BAB5B31BCFABC4003D4936 /* piedrapapeltijera1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E6BAB5AF1BCFABC4003D4936 /* piedrapapeltijera1.jpg */; settings = {ASSET_TAGS = (); }; };
+		E6BAB5B51BCFB233003D4936 /* piedra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E6BAB5B41BCFB233003D4936 /* piedra.jpg */; settings = {ASSET_TAGS = (); }; };
+		E6BAB5B71BCFB239003D4936 /* papel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E6BAB5B61BCFB239003D4936 /* papel.jpg */; settings = {ASSET_TAGS = (); }; };
+		E6BAB5B91BCFB23E003D4936 /* tijeras.png in Resources */ = {isa = PBXBuildFile; fileRef = E6BAB5B81BCFB23E003D4936 /* tijeras.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		E6BAB59A1BCFA3CF003D4936 /* tarea3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tarea3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6BAB59E1BCFA3CF003D4936 /* tarea3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tarea3UITests.swift; sourceTree = "<group>"; };
 		E6BAB5A01BCFA3CF003D4936 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6BAB5AF1BCFABC4003D4936 /* piedrapapeltijera1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = piedrapapeltijera1.jpg; sourceTree = "<group>"; };
+		E6BAB5B41BCFB233003D4936 /* piedra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = piedra.jpg; sourceTree = "<group>"; };
+		E6BAB5B61BCFB239003D4936 /* papel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = papel.jpg; sourceTree = "<group>"; };
+		E6BAB5B81BCFB23E003D4936 /* tijeras.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tijeras.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +109,10 @@
 				E6BAB5801BCFA3CF003D4936 /* ViewController.swift */,
 				E6BAB5821BCFA3CF003D4936 /* Main.storyboard */,
 				E6BAB5851BCFA3CF003D4936 /* Assets.xcassets */,
+				E6BAB5B41BCFB233003D4936 /* piedra.jpg */,
+				E6BAB5B61BCFB239003D4936 /* papel.jpg */,
+				E6BAB5B81BCFB23E003D4936 /* tijeras.png */,
+				E6BAB5AF1BCFABC4003D4936 /* piedrapapeltijera1.jpg */,
 				E6BAB5871BCFA3CF003D4936 /* LaunchScreen.storyboard */,
 				E6BAB58A1BCFA3CF003D4936 /* Info.plist */,
 			);
@@ -228,8 +240,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6BAB5B91BCFB23E003D4936 /* tijeras.png in Resources */,
+				E6BAB5B51BCFB233003D4936 /* piedra.jpg in Resources */,
 				E6BAB5891BCFA3CF003D4936 /* LaunchScreen.storyboard in Resources */,
+				E6BAB5B71BCFB239003D4936 /* papel.jpg in Resources */,
 				E6BAB5861BCFA3CF003D4936 /* Assets.xcassets in Resources */,
+				E6BAB5B31BCFABC4003D4936 /* piedrapapeltijera1.jpg in Resources */,
 				E6BAB5841BCFA3CF003D4936 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -483,6 +499,7 @@
 				E6BAB5A51BCFA3CF003D4936 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E6BAB5A61BCFA3CF003D4936 /* Build configuration list for PBXNativeTarget "tarea3Tests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +508,7 @@
 				E6BAB5A81BCFA3CF003D4936 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E6BAB5A91BCFA3CF003D4936 /* Build configuration list for PBXNativeTarget "tarea3UITests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +517,7 @@
 				E6BAB5AB1BCFA3CF003D4936 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
