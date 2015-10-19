@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E6BAB57A1BCFA3CF003D4936"
-               BuildableName = "tarea3.app"
-               BlueprintName = "tarea3"
-               ReferencedContainer = "container:tarea3.xcodeproj">
+               BlueprintIdentifier = "E6B5F5191BD4C2CC001274C6"
+               BuildableName = "tarea2.app"
+               BlueprintName = "tarea2"
+               ReferencedContainer = "container:tarea2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E6BAB58E1BCFA3CF003D4936"
-               BuildableName = "tarea3Tests.xctest"
-               BlueprintName = "tarea3Tests"
-               ReferencedContainer = "container:tarea3.xcodeproj">
+               BlueprintIdentifier = "E6B5F52D1BD4C2CC001274C6"
+               BuildableName = "tarea2Tests.xctest"
+               BlueprintName = "tarea2Tests"
+               ReferencedContainer = "container:tarea2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E6BAB5991BCFA3CF003D4936"
-               BuildableName = "tarea3UITests.xctest"
-               BlueprintName = "tarea3UITests"
-               ReferencedContainer = "container:tarea3.xcodeproj">
+               BlueprintIdentifier = "E6B5F5381BD4C2CC001274C6"
+               BuildableName = "tarea2UITests.xctest"
+               BlueprintName = "tarea2UITests"
+               ReferencedContainer = "container:tarea2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E6BAB57A1BCFA3CF003D4936"
-            BuildableName = "tarea3.app"
-            BlueprintName = "tarea3"
-            ReferencedContainer = "container:tarea3.xcodeproj">
+            BlueprintIdentifier = "E6B5F5191BD4C2CC001274C6"
+            BuildableName = "tarea2.app"
+            BlueprintName = "tarea2"
+            ReferencedContainer = "container:tarea2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E6BAB57A1BCFA3CF003D4936"
-            BuildableName = "tarea3.app"
-            BlueprintName = "tarea3"
-            ReferencedContainer = "container:tarea3.xcodeproj">
+            BlueprintIdentifier = "E6B5F5191BD4C2CC001274C6"
+            BuildableName = "tarea2.app"
+            BlueprintName = "tarea2"
+            ReferencedContainer = "container:tarea2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E6BAB57A1BCFA3CF003D4936"
-            BuildableName = "tarea3.app"
-            BlueprintName = "tarea3"
-            ReferencedContainer = "container:tarea3.xcodeproj">
+            BlueprintIdentifier = "E6B5F5191BD4C2CC001274C6"
+            BuildableName = "tarea2.app"
+            BlueprintName = "tarea2"
+            ReferencedContainer = "container:tarea2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
